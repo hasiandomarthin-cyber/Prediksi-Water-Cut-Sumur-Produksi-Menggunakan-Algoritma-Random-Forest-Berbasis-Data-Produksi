@@ -41,4 +41,3 @@ This project develops a machine learning model to predict water cut in mature oi
 - Matplotlib
 - OpenPyXL
 - Jupyter Notebook
-- 
